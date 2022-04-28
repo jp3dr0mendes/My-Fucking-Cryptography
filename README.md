@@ -1,1 +1,1 @@
-# My-F-cking-Cryptography
+# My-Fucking-Cryptography
