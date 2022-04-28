@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(135,176,211);
+    display: flexbox;
+}
+
+.container {
+    background-color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 500px;
+    width: 350px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 100px rgb(55,175,169);
+    border: 0.5px solid black;
+    text-align: center;
+}
+
+.aux{
+    
+}
+
+button {
+    height: 50px;
+    width: 200px;
+    border-radius: 50px;    
+}
