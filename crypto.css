@@ -12,17 +12,35 @@ body {
     height: 500px;
     width: 350px;
     border-radius: 25px;
-    box-shadow: 2px 2px 100px rgb(55,175,169);
-    border: 0.5px solid black;
+    box-shadow: 2px 2px 100px rgb(116, 180, 180);
     text-align: center;
 }
 
-.aux{
-    
+h1 {
+    font-size: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family:'Raleway', sans-serif;
+}
+
+input {
+    width: 250px;
+    height: 50px;
+    border-radius: 25px;
+}
+
+p {
+    font-family:'Raleway', sans-serif;
+    font-size: 20px;
 }
 
 button {
     height: 50px;
-    width: 200px;
-    border-radius: 50px;    
+    width: 175px;
+    border-radius: 50px;
+    position: absolute; 
+    left: 50%;
+    transform: translate(-50%,-50%);
+    bottom: 5%;
+    margin: 0px;   
 }
