@@ -41,6 +41,5 @@ button {
     position: absolute; 
     left: 50%;
     transform: translate(-50%,-50%);
-    bottom: 5%;
-    margin: 0px;   
+    bottom: 5%; 
 }
